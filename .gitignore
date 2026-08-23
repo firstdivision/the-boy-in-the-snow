@@ -1,0 +1,12 @@
+assets/video/**
+assets/audio/**
+exports/**
+resolve/proxies/**
+resolve/cache/**
+
+!assets/video/.gitkeep
+!assets/audio/.gitkeep
+!exports/.gitkeep
+
+06 Production/Scenes/**/takes/
+06 Production/Scenes/**/selected/

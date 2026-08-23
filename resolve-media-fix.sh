@@ -2,12 +2,16 @@
 
 set -euo pipefail
 
-DIR="${1:-assets/video}"
+SCRIPT_DIR=$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" && pwd)
+SOURCE_DIR="${1:-${SCRIPT_DIR}/assets/video/runway}"
+OUTPUT_DIR="${2:-${SCRIPT_DIR}/assets/video/movs}"
 
-if [[ ! -d "$DIR" ]]; then
-    echo "Directory not found: $DIR"
+if [[ ! -d "$SOURCE_DIR" ]]; then
+    echo "Directory not found: $SOURCE_DIR"
     exit 1
 fi
+
+mkdir -p "$OUTPUT_DIR"
 
 scanned=0
 converted=0
@@ -15,14 +19,14 @@ skipped=0
 no_audio=0
 failed=0
 
-echo "Scanning: $DIR"
+echo "Scanning: $SOURCE_DIR"
+echo "Writing MOVs to: $OUTPUT_DIR"
 echo
 
 while IFS= read -r -d '' input; do
     ((scanned+=1))
 
     filename=$(basename "$input")
-    dir=$(dirname "$input")
     stem="${filename%.*}"
 
     # Ignore files this script already created.
@@ -30,7 +34,7 @@ while IFS= read -r -d '' input; do
         continue
     fi
 
-    output="${dir}/${stem}-resolve.mov"
+    output="${OUTPUT_DIR}/${stem}-resolve.mov"
 
     echo "Checking: $filename"
 
@@ -91,7 +95,7 @@ while IFS= read -r -d '' input; do
     echo
 
 done < <(
-    find "$DIR" -type f \
+    find "$SOURCE_DIR" -type f \
         \( -iname '*.mp4' -o -iname '*.mov' \) \
         -print0
 )

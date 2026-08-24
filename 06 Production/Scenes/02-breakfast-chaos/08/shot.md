@@ -169,70 +169,35 @@ Kling 3.0 Pro
 
 ## Video Prompt
 
-Cinematic medium close-up continuing directly from the reference image
-inside the warm animated restaurant kitchen.
+Cinematic medium close-up continuing directly from the reference image inside the warm animated restaurant kitchen.
 
-Preserve the young winged woman's exact appearance, hairstyle, clothing,
-folded white feathered wings, proportions, and painterly animated-film
-design.
+Preserve both characters, clothing, proportions, kitchen, lighting, composition, and painterly animated-film style.
 
-Preserve the large head chef's appearance: tall white chef's hat, full dark
-brown beard and mustache, broad expressive face, stocky build, white chef
-coat, and black pinstriped apron.
+IMPORTANT: The chef cannot see the young winged woman and is completely unaware she is beside him. He must NEVER look toward her, turn toward her, speak toward her, gesture toward her, or acknowledge her.
 
-At first, the young woman looks toward the chef's unharmed hand and the
-fallen knife.
+At first, the young woman looks at the chef's unharmed hand and the fallen knife. Realizing her intervention succeeded, a small genuine smile of relief and quiet pride appears on her face. Let this moment breathe briefly.
 
-She realizes her intervention succeeded.
+The chef keeps his eyes DOWN on the fallen knife. He stares at it with a puzzled, bewildered expression, trying to understand why it slipped from his hand.
 
-A small, genuine, relieved smile slowly appears on her face. She is quietly
-proud that she arrived in time.
+His attention remains entirely on the knife and cutting board.
 
-Allow this expression to breathe for a moment.
+His bewilderment gradually becomes irritation. Still looking down, he frowns and makes a small frustrated gesture toward the knife. He mutters angrily about what happened without looking away from his work surface.
 
-The chef continues staring down at the fallen knife with a bewildered
-expression. He does not notice the young woman.
+Hearing his reaction, the young woman's smile falters. She looks toward him briefly, but he never looks back.
 
-His bewilderment gradually turns into irritation.
+Her smile slowly disappears. Her shoulders lower slightly and her gaze falls. Her expression becomes quietly disappointed and tired. She does not cry or dramatically frown.
 
-He suddenly reacts angrily toward the fallen knife and begins complaining.
+Her white feathered wings remain folded behind her.
 
-The young woman's smile immediately falters.
+Background cooks continue normal kitchen activity and do not acknowledge her.
 
-She looks toward him.
+Camera remains nearly stationary with a very slow cinematic push toward the young woman's face.
 
-Her smile slowly disappears.
+No eye contact between them. The chef never acknowledges her. His attention remains on the fallen knife. No one reacts to her presence. No wing spreading. No exaggerated gestures.
 
-Her shoulders lower slightly and her gaze falls.
+Preserve the stylized painterly animated appearance. Do not become photorealistic.
 
-Her expression becomes quietly disappointed and tired, as though she had
-hoped for one small moment of satisfaction and it has already vanished.
-
-Keep the emotion subtle and natural.
-
-She does not cry. She does not dramatically frown. She does not speak.
-
-The chef never looks directly at her and never acknowledges her presence.
-
-Her wings remain folded throughout the shot.
-
-Background kitchen workers continue subtle natural activity.
-
-Warm amber kitchen light, faint cooking haze, and cool blue window light
-remain stable.
-
-Camera remains nearly stationary with a very slow cinematic push toward
-the young woman's face.
-
-No exaggerated gestures. No slapstick. No wing spreading. No flying.
-No additional winged characters.
-
-Preserve the stylized painterly animated appearance throughout.
-Do not make the characters photorealistic or live-action.
-
-Quiet emotional storytelling with restrained facial performance.
-
-Approximately 6 seconds.
+Duration: 6–8 seconds.
 
 ## Sound
 
@@ -288,6 +253,7 @@ Shot 07 ends with:
 
 - knife safely on counter
 - chef unharmed
+
 - chef bewildered
 - Madrigal relieved
 

@@ -18,7 +18,7 @@
 
 ## Character Continuity References
 
-- [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) and [Madrigal definition](<../../../../02 Characters/Madrigal/Madrigal.md>) — check the starting frame for identity, adult proportions, complete wardrobe, satchel placement, and wing anatomy.
+- [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet-take02.png>) and [Madrigal definition](<../../../../02 Characters/Madrigal/Madrigal.md>) — check the starting frame for identity, adult proportions, complete wardrobe, satchel placement, and wing anatomy.
 
 These are preflight review references, not additional video inputs. Animate from this shot's `starting-image.png` only after checking it against the applicable design references. Resolve any design conflict in the source frame before animation; do not ask the video model to redesign the character during motion. Keep the planned crop and do not reveal off-screen costume details just to display them.
 

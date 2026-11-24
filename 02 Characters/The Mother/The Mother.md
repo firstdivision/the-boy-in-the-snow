@@ -75,7 +75,7 @@ The later recognition must remain possible even when the coat and scarf are remo
 - [Animation Style](<../../00 Blueprint/Animation Style.md>) — painterly storybook rendering, restrained performance, and warm/cool lighting.
 - [Scene Breakdown](<../../01 Story/Scene Breakdown.md>) — Sequence 3's recognition requirement and Sequences 8–9's homecoming and emotional payoff.
 - [The Boy definition](<../The Boy/The Boy.md>) and [canonical character sheet](<../The Boy/the-boy-character-sheet.png>) — family resemblance, child scale, and shared visual language.
-- [Madrigal definition](<../Madrigal/Madrigal.md>) and [canonical character sheet](<../Madrigal/madrigal-character-sheet.png>) — shared film style and restrained performance.
+- [Madrigal definition](<../Madrigal/Madrigal.md>) and [canonical character sheet](<../Madrigal/madrigal-character-sheet-take02.png>) — shared film style and restrained performance.
 - User design review on 2026-11-23 — approval of the initial written design, then the revised age of approximately 36–38, slightly taller proportions, and braid kept centered down the back. The generated first candidate remains preserved as an experiment rather than an approved visual sheet.
 - User eye-color review on 2026-11-23 — outdoor take02's design was liked, but its irises were judged too red; match The Boy's canonical iris color before final visual acceptance.
 - Subsequent user eye-color correction on 2026-11-23 — take03's eyes still looked orange; the user requested plain brown. This supersedes the earlier amber/gold color interpretation and matching instruction above.

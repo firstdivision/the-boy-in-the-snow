@@ -14,7 +14,7 @@
 
 ## Visual References
 
-- `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) — identity, proportions, clothing, and wing anatomy.
+- `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet-take02.png>) — identity, proportions, clothing, and wing anatomy.
 - `@continuity`: [Existing continuity frame](../04/starting-image.png) — setting, eyeline, props, and screen direction; it is not necessarily the preceding shot's final pose.
 
 ## Character Design Authority

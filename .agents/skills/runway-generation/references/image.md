@@ -73,7 +73,7 @@ Before submission:
    and deprecation status. Select from `availableImageModels`.
 2. Inspect and use the applicable existing character sheets as visual
    references. For Madrigal, use
-   `02 Characters/Madrigal/madrigal-character-sheet.png`. For a new character
+   `02 Characters/Madrigal/madrigal-character-sheet-take02.png`. For a new character
    without a sheet, use the design sources described above.
 3. For shot images, use the settings and exact prompt from
    `starting-image-prompt.md`. For character references, prepare the approved

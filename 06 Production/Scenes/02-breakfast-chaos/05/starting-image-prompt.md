@@ -14,7 +14,7 @@
 
 ## Visual References
 
-- `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) — identity, proportions, clothing, and wing anatomy.
+- `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet-take02.png>) — identity, proportions, clothing, and wing anatomy.
 - `@kitchen`: [Shared kitchen source snapshot](<../../../../03 Locations/Kitchen/kitchen-source.png>) — provisional location reference copied unchanged from the approved Shot 01 wide frame; architecture, visible layout, materials, palette, and lighting. Character sheets govern identity; shot continuity frames govern hands, props, and action state.
 
 ## Pending Continuity Reference

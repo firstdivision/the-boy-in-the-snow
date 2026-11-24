@@ -68,5 +68,5 @@ When he plays at being an angel, use the coat panels and the stick halo establis
 - [Original Short Story](<../../01 Story/Original Short Story.md>) — his play, interaction with Madrigal, reunion with his mother, and connection to the earlier car intervention.
 - [Vision](<../../00 Blueprint/Vision.md>) — the film's human focus and emotional purpose.
 - [Animation Style](<../../00 Blueprint/Animation Style.md>) — painterly storybook rendering and restrained, believable movement.
-- [Madrigal definition](<../Madrigal/Madrigal.md>) and [Madrigal character sheet](<../Madrigal/madrigal-character-sheet.png>) — the shared visual language and scale reference for scenes with Madrigal.
+- [Madrigal definition](<../Madrigal/Madrigal.md>) and [Madrigal character sheet](<../Madrigal/madrigal-character-sheet-take02.png>) — the shared visual language and scale reference for scenes with Madrigal.
 - User design review on 2026-11-23 — approval of this written design.

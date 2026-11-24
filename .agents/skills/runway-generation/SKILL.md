@@ -24,7 +24,7 @@ rather than silently rewriting an existing prompt or changing the blueprint.
 
 When an asset depicts an established character, inspect the relevant character
 documents and visual sheets under `02 Characters/`. For Madrigal, the canonical
-sheet is `02 Characters/Madrigal/madrigal-character-sheet.png`. Preserve identity,
+sheet is `02 Characters/Madrigal/madrigal-character-sheet-take02.png`. Preserve identity,
 apparent age, proportions, clothing, silhouette, and functional wing anatomy.
 For still-image generation, pass applicable existing sheets as visual references;
 text descriptions alone do not establish an existing character's identity.

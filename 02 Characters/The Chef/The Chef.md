@@ -81,7 +81,7 @@ For the knife incident, retain intact fingers and consistent hand, knife, onion,
 - [Vision](<../../00 Blueprint/Vision.md>) — unnoticed care and the human purpose of the film.
 - [Animation Style](<../../00 Blueprint/Animation Style.md>) — painterly rendering and controlled performance.
 - [Canonical Chef character sheet](the-chef-character-sheet.png) — approved identity, proportions, hair and beard coloration, costume, and character rendering.
-- [Madrigal definition](<../Madrigal/Madrigal.md>) and [canonical character sheet](<../Madrigal/madrigal-character-sheet.png>) — shared style and comparative character continuity.
+- [Madrigal definition](<../Madrigal/Madrigal.md>) and [canonical character sheet](<../Madrigal/madrigal-character-sheet-take02.png>) — shared style and comparative character continuity.
 - [Scene 02 / Shot 01 notes](<../../06 Production/Scenes/02-breakfast-chaos/01/shot.md>), [starting-image prompt](<../../06 Production/Scenes/02-breakfast-chaos/01/starting-image-prompt.md>), and [kitchen frame](<../../06 Production/Scenes/02-breakfast-chaos/01/starting-image.png>) — occupation, build, costume, presence, and established kitchen appearance.
 - [Scene 02 / Shot 03 notes](<../../06 Production/Scenes/02-breakfast-chaos/03/shot.md>) and [kitchen frame](<../../06 Production/Scenes/02-breakfast-chaos/03/starting-image.png>) — facial and costume detail, distracted instruction, competence, and performance.
 - User design review on 2026-11-23 — preservation of the existing appearance, relative height, teaching temperament, hair, trousers, footwear, and final written design approval.

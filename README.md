@@ -27,7 +27,10 @@ Vision
 	- [Chef.md](02%20Characters/Chef.md)
 	- [Madrigal.md](02%20Characters/Madrigal.md)
 	- [Mother.md](02%20Characters/Mother.md)
-- 03 World
+- 03 Locations
+	- [Copper Kettle Kitchen](03%20Locations/Kitchen/Kitchen.md)
+	- [Kitchen reference image prompt](03%20Locations/Kitchen/location-reference-image-prompt.md)
+- 03 World (planned)
 	- [City.md](03%20World/City.md)
 	- [Kitchen.md](03%20World/Kitchen.md)
 	- [Park.md](03%20World/Park.md)

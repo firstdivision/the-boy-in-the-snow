@@ -16,8 +16,11 @@
 
 - `@chef`: [Canonical Chef sheet](<../../../../02 Characters/The Chef/the-chef-character-sheet.png>) — primary identity, proportions, hair and beard coloration, costume, and character rendering; supply this sheet as a visual reference.
 - `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) — identity, proportions, clothing, and wing anatomy.
-- `@kitchen`: [Surviving kitchen continuity frame](../03/starting-image.png) — visible setting details, staff staging, palette, materials, and lighting; this closer view does not establish the entire room layout.
-- `@continuity`: [Existing continuity frame](../08/starting-image.png) — setting, eyeline, props, and screen direction; it is not necessarily the preceding shot's final pose.
+- `@kitchen`: [Shared kitchen source snapshot](<../../../../03 Locations/Kitchen/kitchen-source.png>) — provisional location reference copied unchanged from the approved Shot 01 wide frame; architecture, visible layout, materials, palette, and lighting. Character sheets govern identity; shot continuity frames govern hands, props, and action state.
+
+## Pending Continuity Reference
+
+`@continuity` requires `../08/starting-image.png`, which the user deleted. It is not an available upload reference. Rebuild and review that shot first, or select a suitable reviewed frame from its video; then restore an actual reference link in the manifest. Check its action state against this opening frame, rather than copying a preceding starting pose as an ending pose. Do not submit this prompt while `@continuity` is unresolved. The kitchen location reference cannot replace this action continuity input.
 
 ## Character Design Authority
 
@@ -40,7 +43,7 @@ Painterly storybook animated-film frame with handcrafted surface detail, express
 
 ## Reference Validation Notes
 
-Validated against the current character documents and sheets on 2026-11-23; updated following the user's confirmation of the Chef sheet's approval. The original master kitchen frame at `06 Production/Scenes/02-breakfast-chaos/01/starting-image.png` was absent during the prompt audit. A replacement candidate has since been generated there; see the Scene 02 / Shot 01 generation record for its status and review. `@kitchen` uses the surviving Shot 03 frame for setting and prop continuity. The approved Chef sheet governs character design wherever he appears. Use the kitchen frame for visible setting details; the wider geography remains governed by the shot brief and needs layout review before generating a replacement master frame. The audit reference change itself did not restore or select a starting frame; subsequent generations are documented separately.
+Updated 2026-11-23 after the user deleted the Shot 02–11 starting images. `@kitchen` now uses the independent Shot 01 snapshot in [03 Locations/Kitchen](<../../../../03 Locations/Kitchen/Kitchen.md>). The former Shot 03 reference is no longer available. A people-free location reference is drafted there but has not been generated or selected. Use canonical character sheets for identity. The wide snapshot supplies visible setting details, not the knife/finger alignment, later poses, or unseen service-door geography. Check entrance placement before generating a view that reveals it. This update does not restore or select any deleted starting image.
 
 ## Generation Notes
 

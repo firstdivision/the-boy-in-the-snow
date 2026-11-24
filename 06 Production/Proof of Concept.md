@@ -84,6 +84,18 @@ Suggested sequence:
 4. Cut to a wide shot of Madrigal already rising.
 5. Continue into sustained flight.
 
+### Test 6 — Kitchen Dialogue Timing (Scene 02 / Shot 01)
+
+**Result: TIMING REQUIREMENT NOT MET**
+
+On 2026-11-23, a 4-second Kling 3.0 Pro take with native audio ended while the Chef was still speaking, confirmed by the user's playback review. A second, 10-second take specified one exact line and two seconds without Chef speech at each end. The user confirmed that this longer take still begins with speech. Local automated recognition estimated the main instruction at roughly 4.14–8.40 seconds, leaving about 1.6 seconds afterward; that estimate does not replace a listening review.
+
+Those first two takes used a source frame depicting the Chef with his mouth slightly open and a teaching gesture already underway. That opening pose may have encouraged immediate speech; it was identified as a hypothesis to test. No alternative model has yet been evaluated on this shot's timing requirement.
+
+A follow-up Kling 3.0 Pro take used a new, user-selected frame with closed lips and the Chef folding egg whites into batter before speaking. In this 10-second Take 02, local automated recognition detected only the main instruction at approximately 4.38–8.97 seconds, with no words detected at the opening and about 1.07 seconds after the final word. The full two-second ending specified in the prompt was not achieved by that estimate, but the user subsequently reviewed the clip, approved it, and selected it for Scene 02 / Shot 01 on 2026-11-23. This establishes a usable outcome for this shot, not proof that the source pose alone caused the improvement: both the opening pose and the folding action changed.
+
+**Production lesson:** The explicit timestamps in these Kling 3.0 Pro prompts did not enforce the opening pause. Review spoken wording, lip movement, and both speech-free pauses in playback. When exact speech timing matters, consider a recorded driving performance and compositing workflow rather than relying solely on prompt timestamps. Preserve the existing takes and their exact submitted prompts in the [shot's video records](Scenes/02-breakfast-chaos/01/video-prompt.md#generation-record).
+
 ## Major Conclusions
 
 - The visual concept appears viable.

@@ -7,13 +7,15 @@
 
 ## Status
 
-Starting Frame Approved. The user accepted `starting-image.png` on 2026-11-23 after reviewing the generated frame and its center-right Chef placement. Uses the approved Chef character sheet. See the [generation record and review](starting-image-prompt.md#generation-record).
+Starting Frame Approved. The user selected the folding-batter frame on 2026-11-23 and requested video regeneration. It is now [starting-image.png](starting-image.png): the Chef begins with closed lips, folding egg whites into batter in the bowl, then stops before speaking. It preserves the approved Chef design and center-right kitchen composition. The old local open-mouth frame was removed at the user's explicit request. See the [image generation and selection record](starting-image-prompt.md#generation-record).
 
-First video take generated and saved; editorial playback review pending. See the [video generation record and review](video-prompt.md#generation-record). No final take has been selected.
+Video Approved — Take 02 selected for the edit. On 2026-11-23, the user reviewed the regenerated folding-frame take and said, "It's good. let'suse it." See [Selected Take](#selected-take) and the [video generation record](video-prompt.md#generation-record).
+
+The earlier videos remain preserved as experiments: the original 4-second take ends during speech, and Take 01 begins with speech. They are not the selected shot.
 
 ## Estimated Duration
 
-~4 seconds
+Approximately 10 seconds. The selected original runs 10.041667 seconds. Retain the complete spoken line and the accepted pauses at both ends when editing; kitchen ambience continues throughout.
 
 ## Purpose
 
@@ -46,8 +48,7 @@ The central aisle creates depth through the kitchen.
 
 Multiple cooks work at different stations.
 
-The head chef is visible near the center-left of the composition,
-already instructing one of his junior chefs.
+The head chef occupies the accepted center-right position in the approved starting frame, beside one of his junior chefs. He begins silently folding egg whites into batter in a bowl, then stops folding before giving one complete instruction.
 
 He should be recognizable enough that the audience can identify him
 when we move closer in later shots.
@@ -135,7 +136,7 @@ Another cook prepares food at a workstation.
 
 A server or kitchen worker moves through the background carrying plates.
 
-The head chef talks emphatically to a junior chef.
+During the opening two seconds, the head chef silently completes one slow fold of beaten egg whites into soufflé batter. He stops with the spatula resting inside the bowl, looks toward the junior cook, and delivers the complete instruction from [video-prompt.md](video-prompt.md). His hands remain quiet at the bowl; he stays silent for the final two seconds.
 
 Steam rises continuously from the stove.
 
@@ -196,6 +197,8 @@ The audience should have time to absorb the environment.
 
 ## Starting Image Notes
 
+Revised opening state: lips closed, eyes down on a cream mixing bowl, left hand steadying its rim, right hand holding a wooden spatula partly immersed in pale soufflé batter with visible white egg-white streaks. No raised teaching hand. The new candidate must preserve the current wide kitchen geography and center-right Chef placement; save it separately until selected.
+
 This image is the primary visual reference for the Copper Kettle kitchen.
 
 Later shots should preserve:
@@ -243,6 +246,10 @@ The kitchen should sound busy and somewhat overwhelming.
 
 Do not make it cartoonishly loud.
 
+## Dialogue Timing
+
+The Chef silently folds during the first two seconds, stops folding before the single scripted line during seconds 2–8, and is silent again throughout seconds 8–10. Other workers do not add intelligible lines; the continuous kitchen ambience keeps both pauses alive. Verify the complete line and both pauses during playback review.
+
 ## Music
 
 Music from Scene 01 may continue briefly across the cut.
@@ -276,6 +283,8 @@ Shot 01 cuts directly inside to:
 The contrast should be immediate.
 
 ### Into Shot 02
+
+The mixing bowl and spatula remain at the preparation counter. Before Shot 03, the Chef can set the spatula in the bowl and turn to the adjacent onion board during Shot 02's cutaway; avoid simultaneous mixing and knife work.
 
 Shot 02 introduces Madrigal entering or hurrying into the kitchen.
 
@@ -326,7 +335,13 @@ create most of the energy.
 
 ## Selected Take
 
-TBD
+**Take 02 — approved and selected on 2026-11-23.**
+
+- Video: [scene-02-shot-01-take02.mp4](../../../../assets/video/runway/scene-02-shot-01-take02.mp4).
+- Starting frame: [starting-image.png](starting-image.png), the selected folding-batter frame.
+- Runway task: `0990a2d1-5110-47ad-943f-456975d43092`.
+- Original: 10.041667 seconds, 1928 × 1072, 24 fps, native audio included.
+- User accepted this take's actual pacing. Automated recognition estimated the line at 4.38–8.97 seconds, with about one second afterward, rather than the exact prompt timestamps.
 
 ## Production Notes
 

@@ -7,7 +7,7 @@
 
 ## Status
 
-Starting frame present; generation review pending.
+Starting Frame Needed — the user deleted the previous starting image on 2026-11-23.
 
 ## Estimated Duration
 

@@ -1,5 +1,10 @@
 # Shot 04 — The Danger
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame Needed
@@ -156,74 +161,6 @@ No Madrigal visible.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Tight cinematic close-up of the cook's hands from the reference image
-chopping an onion on a worn wooden cutting board inside the warm animated
-restaurant kitchen.
-
-
-Preserve the hands, chef's knife, onion, cutting board, warm lighting,
-composition, colors, and stylized painterly animated-film aesthetic shown
-in the reference image.
-
-
-The experienced cook continues a slow, natural chopping rhythm.
-
-
-The knife begins near the cutting board and rises slightly for the next chop.
-
-
-As the knife rises, the fingers of his other hand subtly shift farther
-forward while holding the onion.
-
-
-One fingertip accidentally moves into the path where the knife is about to
-come down.
-
-
-The cook does not notice the mistake.
-
-
-The knife begins its next controlled downward chopping movement.
-
-
-End the shot before the knife reaches the fingertip.
-
-
-No contact occurs.
-
-
-No injury. No blood. No wound.
-
-
-The danger comes entirely from the accidental positioning of the hand and
-knife.
-
-
-Keep the hand and finger anatomy stable and natural throughout the shot.
-Keep the knife shape and size consistent.
-
-
-The background remains softly out of focus with subtle movement and warm
-kitchen activity.
-
-
-The camera remains nearly locked with only an extremely subtle cinematic
-push toward the knife and hand.
-
-
-Preserve the stylized animated-film appearance. Do not make the image
-photorealistic or live-action.
-
-
-Restrained, tense, painterly animated-film realism.
-
-Do NOT actually show the finger being cut.  We are leading up to a moment of danger. The next shot will be someone intervening to prevent the injury. He is being fast and careless.
-
-
-Approximately 3 seconds.
 
 ## Sound
 

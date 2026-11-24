@@ -1,5 +1,20 @@
 # Video Prompt Templates
 
+## Shot Files
+
+These are reusable examples, not the current prompts for individual shots.
+Store each shot's settings and video generation text in `video-prompt.md`, and
+its still-image settings, reference manifest, and opening-frame generation
+text in `starting-image-prompt.md`, beside `shot.md`. Link both files from the
+shot brief; do not duplicate their prompt bodies there.
+
+Read `00 Blueprint/Vision.md`, `00 Blueprint/Animation Style.md`, the shot
+brief, and relevant character sheets when adapting a template. Prepare the
+image prompt's initial state separately from the video prompt's motion and
+sound. Keep metadata outside `## Video Prompt` and `## Starting Image Prompt`;
+only those sections become model `promptText`. Prompt preparation does not
+authorize paid generation.
+
 ## How to Use These Templates
 
 The source image establishes what the shot looks like: Madrigal's identity and proportions, wardrobe, wing anatomy, setting, lighting, rendering style, and composition. The video prompt should primarily describe motion, performance, camera behavior, and environmental animation.
@@ -13,6 +28,7 @@ Across all shots:
 - Avoid unnecessary turns toward the camera.
 - Avoid prominent hand acting unless the story requires it.
 - Keep wing size, shape, attachment points, feather arrangement, and number of wings consistent with the source image.
+- Include generated audio by default, using the shot's sound notes and keeping dialogue and music restrained. Final sound can be edited or replaced in post-production.
 - Describe only motion that matters to the shot. Do not invite extra characters or actions.
 - Treat generated snowfall, fog, and similar atmosphere as optional elements that can be augmented in Resolve/Fusion.
 

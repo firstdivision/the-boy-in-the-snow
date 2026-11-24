@@ -1,5 +1,10 @@
 # Shot 01C — Landing
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame
@@ -130,38 +135,6 @@ Warm interior light provides contrast against the cold predawn street.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Cinematic wide shot of the winged young woman in the reference image completing a gentle landing on a quiet snowy side street just before sunrise.
-
-Preserve the appearance, clothing, hairstyle, wings, body proportions, architecture, lighting, colors, composition, and painterly animated-film aesthetic shown in the reference image.
-
-The shot begins with the woman already only two to three feet above the snowy ground, completing the final moment of her descent.
-
-She descends slowly and naturally. Her large feathered wings remain extended and perform one controlled final wingbeat to gently reduce her downward speed.
-
-Her boots touch the soft snow. Her knees bend slightly and naturally as her weight settles onto the ground. Her movement is balanced, graceful, and relaxed.
-
-The final wingbeat pushes air downward, stirring a small amount of loose powdery snow outward around her boots. The snow movement is subtle and physically believable.
-
-Her coat hem, scarf, loose strands of hair, leather satchel, and outer wing feathers respond naturally to the airflow.
-
-After her boots touch the ground, she steadies herself. Her wings remain extended briefly and then begin to relax as the motion settles. She takes a small natural breath.
-
-She does not walk away during this shot.
-
-Snow continues falling naturally throughout the entire environment at multiple depths. Some flakes pass close to the camera while finer snow falls throughout the distant street. Warm light from nearby windows contrasts with the cool blue morning.
-
-The camera remains nearly stationary with only a very subtle cinematic push forward.
-
-The landing is routine and effortless, not dramatic. Avoid a superhero-style landing, deep crouching, stumbling, jumping, running, or exaggerated impact.
-
-Do not introduce additional characters or objects. Preserve the woman's appearance and proportions throughout the shot.
-
-Quiet, restrained, painterly animated-film realism.
-
-Approximately 4 seconds.
 
 ## Sound
 

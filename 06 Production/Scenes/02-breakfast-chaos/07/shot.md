@@ -1,5 +1,10 @@
 # Shot 07 — The Knife Falls
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame Needed
@@ -167,45 +172,6 @@ The knife landing should remain clearly visible.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Cinematic animated kitchen shot continuing directly from the reference image.
-
-Preserve the young winged woman's appearance, the chef's appearance, clothing,
-hands, knife, partially chopped onion, chopped onion pieces, wooden cutting
-board, kitchen lighting, colors, composition, and painterly animated-film
-aesthetic shown in the reference image.
-
-The chef's knife has just been redirected safely away from his fingers.
-
-His fingers remain completely unharmed.
-
-The knife slips naturally from his hand and falls only a short distance onto
-the wooden preparation counter, landing harmlessly with a simple clatter.
-
-The knife does not fly across the room and does not spin dramatically.
-
-The chef instinctively pulls his hand back and looks down at the fallen knife
-with brief surprise. His surprise quickly begins turning into irritation.
-
-Beside him, the young winged woman withdraws her hand after the successful
-intervention.
-
-She quickly looks at the chef's unharmed fingers, realizes that the danger
-has passed, and her tense expression relaxes.
-
-A small, genuine, triumphant smile appears on her face.
-
-Her wings remain folded behind her.
-
-Keep all movement restrained and physically believable.
-
-No injury. No blood. No wound. No knife throwing. No spinning knife.
-No dramatic action. No magical effects. No wing spreading.
-
-Preserve the stylized animated appearance of all characters.
-Do not make them photorealistic or live-action.
 
 ## Sound
 

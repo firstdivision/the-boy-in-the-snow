@@ -69,6 +69,31 @@ Vision
 	- screenplay-pdf
 	- storyboard-pdf
 
+## Character Sheet Workflow
+
+Run `create-character-sheet <Character Name>` (for example,
+`create-character-sheet The Chef`) to start the guided character-definition
+exercise. The project-local
+[character-sheet skill](.agents/skills/create-character-sheet/SKILL.md) reads
+the story, blueprint, and relevant character references; helps resolve open
+design choices; creates the reviewed character Markdown; and then offers to
+prepare and generate a front/side/back/face visual sheet through Runway.
+
+## Shot Prompt Workflow
+
+Each shot folder in `06 Production/Scenes/` contains a planning brief
+(`shot.md`), a `video-prompt.md`, and a `starting-image-prompt.md`. The brief
+links to the dedicated prompt files; generation text is maintained in those
+files. The selected video source frame is `starting-image.png`.
+
+Follow [AGENTS.md](AGENTS.md) and the
+[Runway generation skill](.agents/skills/runway-generation/SKILL.md) for
+blueprint/character references, approval, generation, storage, and review.
+
+Save videos in `assets/video/runway/` as `scene-01-shot-01.mp4`. Preserve
+existing videos for the shot and save subsequent generations as
+`scene-01-shot-01-take01.mp4`, `scene-01-shot-01-take02.mp4`, and so on.
+
 ## Current Milestone
 
 Complete the Vision document.

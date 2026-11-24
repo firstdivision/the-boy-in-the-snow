@@ -1,5 +1,10 @@
 # Shot 02 — Madrigal Arrives
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame Needed
@@ -177,59 +182,6 @@ Maintain the same kitchen design and color palette established in Shot 01.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Cinematic medium-wide shot inside the busy animated restaurant kitchen shown
-in the reference image.
-
-Preserve the young winged woman's appearance, clothing, hairstyle, folded
-feathered wings, body proportions, kitchen architecture, lighting, colors,
-and stylized painterly animated-film aesthetic shown in the reference image.
-
-The young woman moves several purposeful steps farther into the busy kitchen.
-She has just arrived and appears slightly hurried, as though she is almost
-late for something important.
-
-Her wings remain comfortably folded against her back.
-
-Her leather satchel moves naturally against her side as she walks. Her coat
-and scarf settle subtly from her recent movement.
-
-She quickly scans the busy kitchen, looking from one side of the room to the
-other.
-
-Then she notices the head chef working deeper in the kitchen.
-
-Her gaze settles on him and her expression changes subtly from mild concern
-to focused attention, with a tiny sense of relief that she arrived in time.
-
-She does not speak.
-
-The restaurant workers continue their normal breakfast tasks around her
-without looking at her or reacting to her presence.
-
-One kitchen worker passes naturally near her while carrying something,
-without acknowledging her.
-
-Background activity remains restrained and believable: cooks work at their
-stations, pans sizzle, steam rises, plates move through the kitchen, and the
-head chef continues talking to junior cooks.
-
-Keep individual actions simple.
-
-The camera remains stable with only a very subtle cinematic movement.
-
-No dramatic gestures. No running. No collisions. No flying. No wing
-spreading. No character looks directly at the camera. No additional winged
-characters.
-
-Preserve the young woman's youthful stylized animated appearance throughout
-the shot. Do not make her photorealistic or live-action.
-
-Warm, busy, painterly animated-film atmosphere.
-
-Approximately 4 seconds.
 
 ## Sound
 

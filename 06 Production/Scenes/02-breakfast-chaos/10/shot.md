@@ -1,29 +1,70 @@
-Cinematic medium-wide shot continuing inside the warm, animated restaurant kitchen.
+# Shot 10 — Another Appointment
 
-Preserve the young winged woman, the chef, their clothing, proportions, kitchen, lighting, composition, and painterly animated-film style.
+## Prompt Files
 
-The young woman stands quietly to one side, loosely wrapped in her white feathered wings, watching the chef.
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
 
-IMPORTANT: The chef cannot see her and is completely unaware of her presence. He never looks toward her, speaks toward her, or reacts to her.
+## Status
 
-The chef keeps his attention down on the fallen knife and cutting board. After a brief bewildered pause, he picks up the knife, adjusts his grip, and calmly returns to chopping the half-cut onion.
+Starting frame present; generation review pending.
 
-He mutters mildly to himself while working, always looking at the knife, onion, and cutting board.
+## Estimated Duration
 
-The young woman watches him quietly. Her tired expression softens into acceptance. She seems to wish she could explain what happened, but knows she cannot.
+~6–8 seconds
 
-After a moment, her attention suddenly shifts toward something beyond the kitchen. She remembers she must leave.
+## Purpose
 
-Her eyes move toward the exit. Her posture straightens slightly.
+Let Madrigal watch the chef resume work, accept that he cannot understand what
+she did, and remember that another appointment needs her attention.
 
-Her wings gently loosen from around her body and begin returning toward their normal folded position.
+## Composition
 
-Background cooks continue normal kitchen activity without acknowledging her.
+Medium-wide view of the Copper Kettle preparation counter. Madrigal stands
+to one side, loosely wrapped in her wings. The chef, fallen knife, cutting
+board, and half-cut onion remain readable. Preserve the established warm
+kitchen geography and painterly animated-film style.
 
-No eye contact between the chef and young woman. The chef never acknowledges her. No dramatic gestures. No flying. No wing flapping.
+## Starting Image
 
-Camera remains steady with subtle cinematic movement.
+`starting-image.png`
 
-Preserve the stylized painterly animated appearance. Do not become photorealistic.
+Madrigal begins tired and loosely wrapped in her wings after Shot 09, watching
+the chef. The knife is still on the counter. The chef looks down at it and the
+onion, unaware of Madrigal. The preparation area and character designs match
+the preceding shots.
 
-Duration: 6–8 seconds.
+## Action
+
+After a brief pause, the chef picks up the fallen knife, adjusts his grip,
+and resumes chopping the half-cut onion, muttering to himself.
+
+Madrigal watches quietly. Her tired expression softens toward acceptance.
+Then she remembers she must leave. Her eyes move toward the exit, her posture
+straightens slightly, and her wings begin loosening from their embrace.
+
+## Performance and Continuity
+
+Madrigal stays silent. The chef never looks at, speaks to, or acknowledges her.
+Other workers continue their tasks without reacting. Her wings only begin
+unwrapping; Shot 11 completes the fold before she hurries out. No flight,
+flapping, magical notification, or dramatic gesture.
+
+## Camera
+
+Steady medium-wide composition with subtle cinematic movement.
+
+## Sound
+
+Continue the kitchen ambience. The knife pickup leads back into steady
+chopping, with mild muttering from the chef. Madrigal says nothing.
+
+## Video Model
+
+Kling 3.0 Pro
+
+## Production Notes
+
+The original shot document consisted entirely of a video prompt. Its action,
+composition, performance, duration, and continuity are retained here as shot
+planning; the generation text now lives in the linked prompt files.

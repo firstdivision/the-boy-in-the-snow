@@ -8,12 +8,12 @@ The POC was not intended to prove that a generative model should create every el
 
 ## Current Pipeline
 
-1. Begin with Madrigal's canonical character design.
-2. Generate a source image or keyframe in the final `16:9` composition.
-3. Use image-to-video generation to animate performance, physical action, camera behavior, and appropriate environmental motion.
+1. Read the blueprint, the shot's `shot.md`, and applicable canonical character sheets; prepare `starting-image-prompt.md` for the opening frame and `video-prompt.md` for motion and sound.
+2. Use `starting-image-prompt.md` to generate a source image in the final `16:9` composition; preserve candidates and identify the selected frame as `starting-image.png`.
+3. Use the selected frame and `video-prompt.md` for image-to-video generation to animate performance, physical action, camera behavior, and appropriate environmental motion. Include native generated audio by default when supported, unless the user or shot instructions request silence.
 4. Assemble and refine shots in DaVinci Resolve.
 5. Add or replace atmosphere and other effects in Resolve/Fusion when that produces a more controllable result.
-6. Build sound design as a separate production layer.
+6. Review generated audio and retain, edit, or replace it while building final sound design as a separate production layer.
 7. Complete the final edit in Resolve.
 
 The source frame establishes appearance and composition; the video prompt establishes what moves and how it moves.

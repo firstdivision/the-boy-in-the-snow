@@ -1,5 +1,10 @@
 # Shot 06 — The Intervention
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame Needed
@@ -147,52 +152,6 @@ Maintain the Copper Kettle kitchen and established painterly animated style.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Tight cinematic animated shot of the dangerous kitchen moment shown in the
-reference image.
-
-Preserve the young winged woman's appearance, the cook's hands, chef's knife,
-onion, cutting board, clothing, warm kitchen lighting, colors, composition,
-and painterly animated-film aesthetic shown in the reference image.
-
-The chef's knife has begun a natural downward chopping movement while one
-fingertip is accidentally positioned too close to its path.
-
-The young winged woman reacts immediately.
-
-With one quick, precise movement, she reaches toward the knife and gently
-nudges the SIDE of the blade sideways with her fingertips.
-
-She does not grab the knife and does not touch the sharp cutting edge.
-
-Her movement changes the knife's trajectory only slightly, redirecting it
-safely away from the chef's fingertip.
-
-The chef's finger remains completely unharmed.
-
-Because of the unexpected sideways movement, the knife begins slipping from
-the chef's grip.
-
-End the shot just as the knife starts coming loose from his hand.
-
-The intervention is small, precise, and physically believable rather than
-dramatic or magical.
-
-Keep all hand anatomy stable and natural. Keep the knife rigid and consistent
-in shape and size.
-
-No injury. No blood. No wound. No contact between blade and finger. No knife
-throwing. No exaggerated action. No dramatic magic effect. No glowing light.
-No wing movement.
-
-Preserve the stylized animated appearance of the characters. Do not make
-them photorealistic or live-action.
-
-Quick, restrained, precisely timed intervention.
-
-Approximately 2 seconds.
 
 ## Sound
 

@@ -1,5 +1,10 @@
 # Shot 11 — No Time to Wallow
 
+## Prompt Files
+
+- [Video prompt](video-prompt.md)
+- [Starting-image prompt](starting-image-prompt.md)
+
 ## Status
 
 Starting Frame Needed
@@ -136,38 +141,6 @@ Do not make this feel like an action sequence.
 ## Video Model
 
 Kling 3.0 Pro
-
-## Video Prompt
-
-Cinematic animated shot continuing inside the warm busy restaurant kitchen.
-
-Preserve the young winged woman's appearance, clothing, satchel, wings,
-proportions, kitchen lighting, colors, and painterly animated-film style.
-
-She looks toward the service exit and suddenly remembers she must leave.
-
-Her tired expression becomes focused and purposeful. Her white wings gently
-unwrap from around her body and fold naturally against her back.
-
-She straightens, turns toward the exit, and moves quickly through the busy
-kitchen, beginning with a brisk walk and becoming a hurried jog.
-
-Background cooks continue working normally and never acknowledge her.
-
-The bearded head chef remains at his preparation counter, looking down and
-chopping the half-cut onion. He never looks toward the young woman and never
-reacts to her.
-
-She reaches the service door, opens it, and hurries outside.
-
-Her wings remain folded while she moves. No flying or wing flapping.
-
-Camera follows her smoothly with restrained cinematic movement.
-
-Preserve the stylized painterly animated appearance. Do not become
-photorealistic.
-
-Duration: 5–7 seconds.
 
 ## Sound
 

@@ -10,3 +10,5 @@ resolve/cache/**
 
 06 Production/Scenes/**/takes/
 06 Production/Scenes/**/selected/
+
+*.mp4

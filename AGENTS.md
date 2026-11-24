@@ -309,3 +309,13 @@ Preserve successful prompts and source frames.
 Do not delete failed experiments merely because they failed. Failed tests may
 contain useful information about model limitations and should be documented
 when relevant.
+
+## Runway MCP
+
+- Never submit a generation without explicit user approval.
+- Present the model, prompt, reference images, duration,
+  resolution, and estimated credit cost before generation.
+- Prefer Kling 3.0 unless otherwise specified in shot.md.
+- Never automatically retry a failed generation.
+- Preserve previously generated assets.
+- Record generation metadata alongside each generated asset.

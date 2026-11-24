@@ -1,0 +1,67 @@
+{
+  "provider": "Runway MCP",
+  "status": "rejected_before_task_creation",
+  "approval": {
+    "user_message": "ok, send it",
+    "date": "2026-11-23",
+    "timezone": "America/Chicago",
+    "estimated_credits": 20
+  },
+  "reference": {
+    "local_path": "02 Characters/Madrigal/madrigal-character-sheet.png",
+    "asset_id": "5573c3ec-e3e3-4c48-b45d-eb9173ed0b5c"
+  },
+  "request": {
+    "model": "nano-banana-pro",
+    "promptText": "Create one cinematic image of Madrigal and the boy playing in a snowy park at evening, near the end of The Boy in the Snow. Use @madrigal as the canonical reference for Madrigal’s identity, proportions, clothing, wing design, and painterly rendering style.\n\nMadrigal stands beside the young boy, her two large ivory feathered wings extended and curled forward around him, forming a gentle dome with an opening at the top. Show believable wing joints, feather overlap, and attachment to her upper back. Frame the scene through the open front so both faces remain clearly visible.\n\nThe boy, bundled in practical winter clothing and boots, looks up at her with delighted wonder. Small footprints trace the wing shadows in the fresh snow. Madrigal looks down at him with a small, unguarded smile and relaxed posture—the quiet joy of finally being seen.\n\nPreserve her young-adult appearance, natural slender proportions, freckles, expressive brown eyes, messy dark bun, long dark winter coat, blue-gray scarf, cream dress, worn boots, leather satchel, and locket.\n\nUse an intimate, eye-level, medium-wide composition. Soft snowfall, cool blue evening shadows, and warm golden light from a nearby streetlamp and distant windows. Match the reference’s handcrafted storybook texture. Keep the moment human and playful. No magical glow, religious iconography, additional characters, text, or panels.",
+    "count": 1,
+    "imageSize": "2K",
+    "ratio": "16:9",
+    "outputFormat": "png",
+    "referenceImages": [
+      {
+        "url": "https://d2jqrm6oza8nb6.cloudfront.net/datasets/e1edfcbf-6c22-4c76-9889-1b3793495c9b.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWVmYjJlN2MwMTU2NzhkYSIsImJ1Y2tldCI6InJ1bndheS1kYXRhc2V0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY0NjcxNn0.yg6AcTK0_O444Gm_ZJOBkY6xKTkRpk-vczONVPfczzA",
+        "assetId": "5573c3ec-e3e3-4c48-b45d-eb9173ed0b5c",
+        "tag": "madrigal"
+      }
+    ],
+    "rationale": "User explicitly approved this exact revised prompt and a single 2K 16:9 image, estimated at 20 credits: Madrigal with the boy under her wings near the end of the film."
+  },
+  "response": {
+    "content": [
+      {
+        "type": "text",
+        "text": "Tool `generate_image` failed:\nnano-banana-pro does not support outputFormat, frameCount, or frameDurationMs. Choose a GPT Image 2.6 model for GIF or SVG.\n\nRequest ID: mcp_mwtxn6ob_8wxrr4"
+      }
+    ],
+    "structuredContent": {
+      "kind": "tool_error",
+      "tool": "generate_image",
+      "requestId": "mcp_mwtxn6ob_8wxrr4",
+      "message": "nano-banana-pro does not support outputFormat, frameCount, or frameDurationMs. Choose a GPT Image 2.6 model for GIF or SVG."
+    },
+    "isError": true
+  },
+  "credits_check_after_rejection": {
+    "unlimited": false,
+    "plan": 18894,
+    "purchased": 535,
+    "total": 19429
+  },
+  "proposed_corrected_request": {
+    "model": "nano-banana-pro",
+    "promptText": "Create one cinematic image of Madrigal and the boy playing in a snowy park at evening, near the end of The Boy in the Snow. Use @madrigal as the canonical reference for Madrigal’s identity, proportions, clothing, wing design, and painterly rendering style.\n\nMadrigal stands beside the young boy, her two large ivory feathered wings extended and curled forward around him, forming a gentle dome with an opening at the top. Show believable wing joints, feather overlap, and attachment to her upper back. Frame the scene through the open front so both faces remain clearly visible.\n\nThe boy, bundled in practical winter clothing and boots, looks up at her with delighted wonder. Small footprints trace the wing shadows in the fresh snow. Madrigal looks down at him with a small, unguarded smile and relaxed posture—the quiet joy of finally being seen.\n\nPreserve her young-adult appearance, natural slender proportions, freckles, expressive brown eyes, messy dark bun, long dark winter coat, blue-gray scarf, cream dress, worn boots, leather satchel, and locket.\n\nUse an intimate, eye-level, medium-wide composition. Soft snowfall, cool blue evening shadows, and warm golden light from a nearby streetlamp and distant windows. Match the reference’s handcrafted storybook texture. Keep the moment human and playful. No magical glow, religious iconography, additional characters, text, or panels.",
+    "count": 1,
+    "imageSize": "2K",
+    "ratio": "16:9",
+    "referenceImages": [
+      {
+        "url": "https://d2jqrm6oza8nb6.cloudfront.net/datasets/e1edfcbf-6c22-4c76-9889-1b3793495c9b.png?_jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXlIYXNoIjoiMWVmYjJlN2MwMTU2NzhkYSIsImJ1Y2tldCI6InJ1bndheS1kYXRhc2V0cyIsInN0YWdlIjoicHJvZCIsImV4cCI6MTc5NTY0NjcxNn0.yg6AcTK0_O444Gm_ZJOBkY6xKTkRpk-vczONVPfczzA",
+        "assetId": "5573c3ec-e3e3-4c48-b45d-eb9173ed0b5c",
+        "tag": "madrigal"
+      }
+    ],
+    "rationale": "User explicitly approved this exact revised prompt and a single 2K 16:9 image, estimated at 20 credits: Madrigal with the boy under her wings near the end of the film."
+  },
+  "retry_requires_user_approval": true
+}

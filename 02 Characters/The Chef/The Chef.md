@@ -4,7 +4,7 @@
 
 The Chef is the experienced head chef at the Copper Kettle restaurant and the subject of Madrigal's first intervention. His unknowing reaction to her help begins her day's discouragement and illustrates how easily small acts of care go unrecognized.
 
-The written design below was approved on 2026-11-23. A dedicated visual character sheet has not yet been generated or approved.
+The written design below was approved on 2026-11-23. A [candidate visual character sheet](the-chef-character-sheet.png) was generated that day, with [generation notes](character-sheet-image-prompt.md#generation-record) in its prompt document. It has not been accepted as canonical: the generated beard contains substantial gray despite the approved dark beard, and its rendering is flatter and more outlined than the painterly kitchen references. The written design remains the authority for those details.
 
 ## Story Facts
 

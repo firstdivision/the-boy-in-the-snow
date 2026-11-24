@@ -57,8 +57,8 @@ approved references, when available, in addition to both blueprint documents.
 - Choose the framing, views, aspect ratio, and resolution for the reference's
   intended use and include them in the generation proposal. A character sheet
   need not be 16:9; that default applies to video source frames.
-- Save new references and sibling generation metadata in the character's
-  folder using unique filenames. Preserve earlier sheets; do not silently
+- Save new references in the character's folder using unique filenames and
+  record generation notes in its existing image-prompt Markdown. Preserve earlier sheets; do not silently
   replace a canonical design or label an unselected candidate as established.
 
 ## Submission
@@ -117,7 +117,8 @@ upload result; do not submit this example literally.
 
 ## Results, Failures, and Preservation
 
-- Capture the returned task ID immediately. An accepted task is already
+- Capture the returned task ID immediately in the relevant Markdown generation
+  record. An accepted task is already
   generating; do not call `generate_image` again to check progress.
 - If an inline Runway viewer renders, let it update. In a local client without
   a viewer, wait 30–90 seconds and use `get_task` with the returned task ID
@@ -126,11 +127,14 @@ upload result; do not submit this example literally.
   after an error, including a parameter rejection; present the correction
   and obtain approval before retrying. Do not change models without approval.
 - Download the original completed asset into the requested project folder
-  without overwriting existing assets. Save a sibling `<image>.generation.json`
-  containing the approved request, reference paths and asset IDs, model,
-  task ID, status, timestamps, output URL, local path, actual dimensions,
-  credit cost when known, blueprint and character-design sources used, and
-  continuity-review observations.
+  without overwriting existing assets. Append concise generation notes to the
+  shot's `starting-image-prompt.md` or the character's image-prompt Markdown,
+  outside the model-facing section: approval, model/settings, task ID, date,
+  reference paths, saved path, actual dimensions, known cost, status, and review
+  findings. Retain reference asset IDs when useful for reuse. Keep the exact
+  prompt in its dedicated section and preserve historical text if it changes.
+  Do not save Runway response JSON or `.generation.json` sidecars in the project;
+  keep temporary raw responses outside the repository, such as under `/tmp`.
 - Preserve unsuccessful attempts and the original generated output. Review
   character identity, anatomy, wing structure, and composition before treating
   a result as production-ready.

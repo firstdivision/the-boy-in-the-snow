@@ -211,7 +211,7 @@ full-length side view, full-length back view, and a face close-up of one
 consistent design. Use the Runway MCP only after presenting the exact model,
 prompt, references, count, ratio, resolution, output filename, and estimated
 credit cost and receiving explicit approval. Preserve prior definitions,
-prompts, sheets, and metadata.
+prompts, sheets, and useful generation notes in Markdown.
 
 ---
 
@@ -390,7 +390,13 @@ when relevant.
   specify another video model.
 - Never automatically retry a failed generation.
 - Preserve previously generated assets.
-- Record generation metadata alongside each generated asset.
+- Do not save Runway response JSON or `.generation.json` sidecars anywhere
+  in the project. Keep any temporary raw responses outside the repository,
+  such as under `/tmp`.
+- Record concise generation notes in the existing shot or character Markdown:
+  model/settings, task ID, reference and output paths, date, known cost,
+  status, and review findings. Keep exact submitted prompts in their dedicated
+  prompt files; preserve historical text when the active prompt changes.
 
 For Runway video or image generation, use the project skill
 [runway-generation](.agents/skills/runway-generation/SKILL.md). Read the
@@ -408,5 +414,5 @@ For shot videos:
   If any video for that scene/shot already exists, preserve it and use
   `scene-01-shot-01-take01.mp4`, then `-take02`, and so on, continuing after
   the highest existing take number. Never overwrite an existing video or
-  its metadata. Use the same stem for the sibling `.generation.json` file
-  and record the saved path in the shot folder.
+  its Markdown generation record. Record the saved path and take details
+  in the shot folder's Markdown; do not create a JSON sidecar.

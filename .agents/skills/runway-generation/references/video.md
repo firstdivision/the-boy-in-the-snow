@@ -118,23 +118,23 @@ This is a historical observation, not a guaranteed future price.
 Save videos in the repository-root `assets/video/runway/` directory. Use the
 numeric scene and shot folder identifiers, padded to at least two digits:
 `scene-01-shot-01.mp4`. Use numeric folder IDs even if a shot's display title
-uses a letter, such as Shot 01A. Keep task IDs in metadata, not the filename.
+uses a letter, such as Shot 01A. Keep task IDs in Markdown generation records,
+not the filename.
 
 Before saving, inspect existing videos for the same scene/shot, including
-legacy filenames, and their sibling metadata:
+legacy filenames, and the shot's Markdown generation records:
 
-- If no video or reserved output/metadata exists for the shot, use the base
+- If no video or reserved output exists for the shot, use the base
   filename, for example `scene-01-shot-01.mp4`.
 - If a video already exists, preserve it and append `-take01` to the base stem.
   If numbered takes exist, continue after the highest existing take number:
   `scene-01-shot-01-take02.mp4`, `scene-01-shot-01-take03.mp4`, and so on.
   Do not fill earlier gaps or reset numbering when the base file is absent.
-- Treat a filename with existing generation metadata or a pending generation
+- Treat a filename with an existing Markdown generation record or a pending generation
   record as occupied too. Recheck the chosen destination before writing;
   if occupied, advance the take number instead of overwriting it.
-- Save metadata with the same stem, for example
-  `scene-01-shot-01-take01.generation.json`, and record the exact video path
-  and take number in the shot's generation record. Preserve previous records.
+- Record the exact video path and take number in the shot's Markdown
+  generation record. Preserve previous records; do not create JSON sidecars.
 
 This convention governs new outputs; do not rename or overwrite existing
 videos or historical provenance unless the user requests that migration.
@@ -152,13 +152,16 @@ videos or historical provenance unless the user requests that migration.
   `assets/video/runway/`, creating it if necessary. Follow **Video Filenames**
   above: `scene-01-shot-01.mp4`, then `scene-01-shot-01-take01.mp4`,
   `scene-01-shot-01-take02.mp4`, and so on. Never overwrite an existing take.
-- Save a sibling `<video-stem>.generation.json` with the exact approved
-  request, prompt source, reference paths and asset IDs, model, task ID,
-  status, timestamps, complete output URL, local path, actual dimensions,
-  duration, audio presence, known credit cost, blueprint and character-design
-  sources consulted, and review observations.
-  Because `assets/video/` is ignored by Git, also keep a generation record
-  in the shot folder with the same provenance and the saved video's path.
+- Append concise generation notes to the shot's `shot.md` or
+  `video-prompt.md`, outside the model-facing section: approval, model/settings,
+  task ID, date, prompt source, reference paths, saved video path and take,
+  actual dimensions, duration, audio presence, known cost, status, and review
+  findings. Retain reference asset IDs when useful for reuse. Keep the exact
+  submitted prompt in its dedicated file and preserve historical text if it
+  changes. Because `assets/video/` is ignored by Git, keep the record in the
+  shot folder. Do not save Runway response JSON or `.generation.json` sidecars
+  anywhere in the project; temporary raw responses belong outside the
+  repository, such as under `/tmp`.
 - Verify the downloaded file with `ffprobe`: check dimensions, duration,
   frame rate, and audio stream presence. A requested 16:9 1080p take was
   delivered at 1916 × 1080; record actual dimensions and preserve the

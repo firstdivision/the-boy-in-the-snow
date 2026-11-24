@@ -308,3 +308,8 @@ That is why we should let the shot breathe.
 The chef's curse is almost incidental.
 
 The story is in Madrigal's face.
+
+## Generation Record
+
+See the [previous take and review notes](video-prompt.md#generation-history).
+The take remains subject to editorial review.

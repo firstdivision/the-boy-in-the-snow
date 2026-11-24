@@ -103,15 +103,17 @@ set, count, resolution, or ratio requires a new proposal and approval.
 ## Save and Review
 
 Save the original result as
-`02 Characters/<Display Name>/<slug>-character-sheet.png`. If that filename or
-its sibling metadata is already occupied, preserve it and use
+`02 Characters/<Display Name>/<slug>-character-sheet.png`. If that filename is
+occupied or reserved by an existing Markdown generation record, preserve it and use
 `<slug>-character-sheet-take01.png`, then `-take02`, continuing after the highest
 existing take. Do not fill gaps or overwrite an existing asset.
 
-Save sibling generation metadata with the same stem and `.generation.json`.
-Follow the Runway skill's metadata requirements, including approved request,
-references, model, task ID, timestamps, output URL, local path, dimensions,
-credit cost when known, and review observations.
+Append a concise generation record to `character-sheet-image-prompt.md`,
+outside the model-facing prompt section. Record approval, model/settings,
+task ID, date, references, saved path, actual dimensions, known credit cost,
+and review observations. The dedicated prompt section preserves the submitted
+text; retain a historical copy in the generation record if that prompt changes.
+Do not save Runway response JSON or `.generation.json` sidecars in the project.
 
 Inspect the downloaded image at full size. Verify all four required elements,
 identity consistency, front/side/back agreement, face, hands, feet, anatomy,

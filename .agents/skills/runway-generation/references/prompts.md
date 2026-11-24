@@ -64,6 +64,8 @@ the model-facing text to the dedicated video file.
 
 Retire ambiguous active prompt filenames after their content is migrated.
 Update guidance, templates, and current references. Preserve historical
-metadata verbatim and add a current source-path field for migrated prompts.
+submitted prompt text and source paths in Markdown generation records, and
+add the current source path separately. Do not save raw Runway JSON responses
+or create JSON sidecars to document the migration.
 Check that every shot has both files, every prompt body is nonempty, all local
 reference links resolve, and no duplicate embedded generation prompts remain.

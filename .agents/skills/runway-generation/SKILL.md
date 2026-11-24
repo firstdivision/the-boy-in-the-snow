@@ -42,7 +42,7 @@ blueprint; distinguish new design exploration from an established design.
   Writing these files does not authorize media generation.
 - For shot video generation or regeneration, read
   [references/video.md](references/video.md). It covers required shot files,
-  settings, the verified Kling request, delivery, metadata, and review.
+  settings, the verified Kling request, delivery, Markdown records, and review.
 - For still-image generation or reference-guided image edits, read
   [references/image.md](references/image.md). This includes starting images
   using `starting-image-prompt.md` derived from `shot.md`, and creating or updating character reference images
@@ -73,3 +73,12 @@ Preserve original assets, source frames, prompts, and failed-attempt records.
 Capture each accepted task ID immediately; use it to retrieve progress and
 results instead of resubmitting the generation. Save the original result and
 its provenance using the selected procedure before reporting delivery.
+
+Do not save Runway response JSON or `.generation.json` sidecars anywhere in
+the project. Use `/tmp` for temporary raw responses if needed. Keep concise
+generation records in existing Markdown: the shot's `shot.md` or dedicated
+prompt file, or the character's image-prompt file. Record model/settings,
+task ID, date, reference and output paths, known cost, status, and review
+findings; retain asset IDs when useful for reuse. Preserve the exact submitted
+prompt in its dedicated file and archive historical text there if it changes.
+Do not copy raw tool envelopes or duplicate full requests into these notes.

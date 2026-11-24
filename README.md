@@ -94,6 +94,10 @@ Save videos in `assets/video/runway/` as `scene-01-shot-01.mp4`. Preserve
 existing videos for the shot and save subsequent generations as
 `scene-01-shot-01-take01.mp4`, `scene-01-shot-01-take02.mp4`, and so on.
 
+Keep concise generation records in the existing shot or character Markdown.
+Do not save Runway response JSON or `.generation.json` sidecars in the project;
+temporary raw responses belong outside the repository, such as under `/tmp`.
+
 ## Current Milestone
 
 Complete the Vision document.

@@ -41,6 +41,10 @@ If an existing character definition or visual sheet is present, preserve it.
 Treat revisions as edits requiring review and new image generations as candidates;
 never silently replace an approved canonical design.
 
+Keep generation notes in `character-sheet-image-prompt.md`. Do not create
+Runway JSON response files or `.generation.json` sidecars in the project;
+follow the Runway skill's Markdown record convention.
+
 ## Project Sources
 
 The definition phase always reads the original story, vision, and animation

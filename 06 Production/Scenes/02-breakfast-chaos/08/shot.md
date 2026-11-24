@@ -69,7 +69,7 @@ Maintain:
 - Madrigal's established character design
 - chef's established character design
 - tall white chef's hat
-- full dark beard and mustache
+- full dark-and-gray beard and mustache matching the approved Chef sheet
 - stocky build
 - white chef coat
 - black pinstriped apron

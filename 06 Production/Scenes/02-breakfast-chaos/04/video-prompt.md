@@ -16,7 +16,15 @@
 
 **Starting frame:** [starting-image.png](starting-image.png)
 
+## Character Continuity References
+
+- [Canonical Chef sheet](<../../../../02 Characters/The Chef/the-chef-character-sheet.png>) and [Approved Chef definition](<../../../../02 Characters/The Chef/The Chef.md>) — check identity, dark-and-gray facial hair, adult build, and costume against the accepted design. Older kitchen frames supply setting and prop continuity.
+
+These are preflight review references, not additional video inputs. Animate from this shot's `starting-image.png` only after checking it against the applicable design references. Resolve any design conflict in the source frame before animation; do not ask the video model to redesign the character during motion. Keep the planned crop and do not reveal off-screen costume details just to display them.
+
 ## Video Prompt
+
+Preserve the chef's hand scale, complexion, exposed forearms, rolled white sleeves, and any visible dark pinstriped apron. Keep his hands distinct and anatomically stable; retain the close framing.
 
 Tight cinematic close-up of the cook's hands from the reference image
 chopping an onion on a worn wooden cutting board inside the warm animated

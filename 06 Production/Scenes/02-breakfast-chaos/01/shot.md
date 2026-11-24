@@ -7,7 +7,9 @@
 
 ## Status
 
-Starting Frame Approved
+Starting Frame Approved. The user accepted `starting-image.png` on 2026-11-23 after reviewing the generated frame and its center-right Chef placement. Uses the approved Chef character sheet. See the [generation record and review](starting-image-prompt.md#generation-record).
+
+First video take generated and saved; editorial playback review pending. See the [video generation record and review](video-prompt.md#generation-record). No final take has been selected.
 
 ## Estimated Duration
 

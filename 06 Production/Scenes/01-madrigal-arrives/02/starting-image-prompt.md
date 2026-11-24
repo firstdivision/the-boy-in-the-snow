@@ -17,6 +17,10 @@
 - `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) — identity, proportions, clothing, and wing anatomy.
 - `@continuity`: [Existing continuity frame](../01/starting-image.png) — setting, eyeline, props, and screen direction; it is not necessarily the preceding shot's final pose.
 
+## Character Design Authority
+
+- [Madrigal definition](<../../../../02 Characters/Madrigal/Madrigal.md>) — use together with `@madrigal`; the sheet also establishes the dress, stockings, locket, boots, coat length, and satchel placement.
+
 Read [Vision](<../../../../00 Blueprint/Vision.md>) and [Animation Style](<../../../../00 Blueprint/Animation Style.md>). Inspect references before upload; use canonical character sheets for identity, and other frames for the setting and continuity. If an optional continuity image is unavailable or inconsistent, disclose that and revise the reference list and prompt for approval. Do not invent uploaded URLs.
 
 ## Starting Image Prompt
@@ -25,7 +29,7 @@ Medium-wide aerial frame from behind and slightly beside Madrigal above Copper C
 
 Use @madrigal for her exact young-adult face, proportions, messy dark bun, freckles, coat length, blue-gray scarf, boots, leather satchel, and wing anatomy. Her wings are extended in a relaxed aerodynamic position at the beginning of sustained flight, her knees and feet naturally relaxed behind her. Her expression is neutral and a little sleepy; her mouth is not already open in a yawn. Cool blue snow-covered rooftops contrast with warm windows and a faint warm horizon. Include restrained snow and thin chimney smoke, with space for a stable tracking camera.
 
-Preserve the canonical young-adult Madrigal: facial identity, freckles, expressive eyes, dark hair in a loose messy bun, naturally long slender adult proportions, dark winter coat of the same length, blue-gray scarf, boots, leather satchel, and two functional white feathered wings attached consistently to her back. Do not make her childlike or redesign her silhouette.
+Preserve the canonical young-adult Madrigal from @madrigal: facial identity, freckles, expressive brown eyes, dark hair in a loose messy bun, and naturally long, slender adult proportions. Keep her long dark blue-gray winter coat, blue-gray scarf, cream dress with its lace-edged hem, dark stockings, worn brown lace-up boots, small round locket, and brown leather cross-body satchel wherever visible in this framing. Preserve garment lengths, satchel side and strap, and the two functional white-to-ivory feathered wings with the same size, structure, and back attachment. Do not make her childlike or redesign her silhouette.
 
 Painterly storybook animated-film frame with handcrafted surface detail, expressive stylized faces, soft illustrated edges, and cinematic warm/cool contrast. Keep surfaces and anatomy illustrated rather than photorealistic CGI. Create a single clean cinematic frame, without captions, reference-sheet panels, labels, borders, or watermarks.
 

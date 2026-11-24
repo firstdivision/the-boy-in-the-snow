@@ -2,7 +2,7 @@
 
 ## Image Settings
 
-- Status: Exact prompt, settings, references, and estimated cost approved on 2026-11-23; generation completed and inspected; candidate awaiting user review.
+- Status: Approved canonical character sheet. The user confirmed approval on 2026-11-23; the former candidate status is superseded.
 - Model: Nano Banana Pro (`nano-banana-pro`), verified available through Runway MCP on 2026-11-23.
 - Image count: 1 complete character sheet.
 - Resolution: 2K (`imageSize: "2K"`); record actual delivered dimensions.
@@ -11,6 +11,10 @@
 - Audio: Not applicable.
 - Output: `the-chef-character-sheet.png` in this directory.
 - Estimated cost: 20 Runway credits total for one 2K image, verified against [Runway's published model pricing](https://academy.runwayml.com/models-pricing) on 2026-11-23.
+
+## Record Scope
+
+The reference manifest, model-facing prompt, and submission instructions below preserve the original generation request. They are historical, including the earlier dark-beard wording and references to a candidate review gate. Future shot assets use [the accepted sheet](the-chef-character-sheet.png) for identity, including its gray facial hair, together with the updated [character definition](<The Chef.md>); do not resubmit this historical request to recreate or revise the approved design.
 
 ## Visual References
 
@@ -53,10 +57,16 @@ Show only these four views of this one consistent character. No kitchen or scene
 ## Generation Record
 
 - Runway task ID: `afc95c1a-ec18-4c07-b5d6-218ec66eee83`.
-- Generated on 2026-11-23 (America/Chicago); completed at 2026-11-24 01:58:11 UTC. Status: succeeded; candidate awaiting user review.
+- Generated on 2026-11-23 (America/Chicago); completed at 2026-11-24 01:58:11 UTC. Status: succeeded. Initial review status was candidate awaiting user review; canonical approval has since been confirmed below.
 - Submitted exactly the `## Character Sheet Image Prompt` above, using the listed two references and approved Nano Banana Pro / one image / 2K / 16:9 settings.
 - Uploaded reference asset IDs: `chefdetail` — `b2de2945-1f99-4e8c-bb42-7892272c5d76`; `chefwide` — `cdfa0dd0-8727-4afe-a194-7215e400946c`.
-- [Original candidate sheet](the-chef-character-sheet.png): 2752 x 1536 PNG; observed debit 20 credits.
+- [Original generated sheet, now canonical](the-chef-character-sheet.png): 2752 x 1536 PNG; observed debit 20 credits.
 - All four requested views are present, with complete hats and footwear and visible hands. The full-body views have broadly consistent scale, clothing, and silhouette, and the back view shows apron ties.
-- Review concerns: substantial gray in the beard and mustache conflicts with the approved dark facial hair and makes him read older; the finish is flatter and more outlined than the painterly kitchen references and Madrigal sheet. The torso in the side view is slightly turned rather than fully orthographic. Fine finger anatomy and costume construction still merit human review.
-- No retry was submitted. The sheet remains a candidate; no canonical visual approval has been recorded.
+- Initial technical observations, retained as history: substantial gray in the beard and mustache differed from the original dark-facial-hair wording and made him read older; the finish was flatter and more outlined than the painterly kitchen references and Madrigal sheet. The torso in the side view was slightly turned rather than fully orthographic. Fine finger anatomy and costume construction were noted for human review. These observations do not override the user's acceptance of the sheet.
+- No retry was submitted.
+
+### Canonical Approval Confirmation — 2026-11-23
+
+- The user confirmed: "His character sheet is approved."
+- `the-chef-character-sheet.png` is the canonical visual reference. Preserve its accepted identity, beard coloration, proportions, clothing, and character rendering; earlier dark-beard-only instructions are superseded.
+- Updated the character definition and active Scene 02 prompt references accordingly. The original submitted `## Character Sheet Image Prompt` above remains unchanged.

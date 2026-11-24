@@ -4,7 +4,7 @@
 
 The Chef is the experienced head chef at the Copper Kettle restaurant and the subject of Madrigal's first intervention. His unknowing reaction to her help begins her day's discouragement and illustrates how easily small acts of care go unrecognized.
 
-The written design below was approved on 2026-11-23. A [candidate visual character sheet](the-chef-character-sheet.png) was generated that day, with [generation notes](character-sheet-image-prompt.md#generation-record) in its prompt document. It has not been accepted as canonical: the generated beard contains substantial gray despite the approved dark beard, and its rendering is flatter and more outlined than the painterly kitchen references. The written design remains the authority for those details.
+The written design and [canonical visual character sheet](the-chef-character-sheet.png) are approved. The user confirmed the sheet's approval on 2026-11-23, correcting its previously recorded candidate status. Use this exact sheet as the primary reference for his identity, proportions, hair and beard coloration, costume, and character rendering. Its accepted design, including the gray in his beard and mustache, supersedes earlier dark-beard-only instructions. The [original prompt and generation notes](character-sheet-image-prompt.md#generation-record) remain preserved as production history.
 
 ## Story Facts
 
@@ -21,13 +21,13 @@ The scene notes establish him as competent and experienced: this is a moment of 
 
 ## Canonical Visual Design
 
-These are the approved written design choices. Preserve his existing Scene 02 appearance, using the kitchen frames linked below as the visual baseline.
+These are the approved design choices, reconciled with the accepted character sheet. Use the sheet for character identity and costume; the existing Scene 02 kitchen frames supply setting, staging, and prop continuity.
 
 - Middle-aged male appearance.
 - Stocky build with a broad, grounded silhouette and natural adult proportions.
 - Moderately taller than Madrigal when both stand upright, excluding his tall hat. His build supplies much of his physical presence.
-- Preserve the facial proportions, heavy brows, complexion, full dark beard, and mustache visible in the existing kitchen frames. Do not turn the expression of a particular frame into a permanent scowl.
-- Short dark brown hair, lightly graying at the temples beneath his hat. Keep the beard and mustache dark as established.
+- Preserve the facial proportions, heavy brows, complexion, full beard, and mustache shown in the canonical sheet. His facial hair mixes dark brown and gray; preserve the sheet's distribution rather than making it uniformly dark. Do not turn the expression of a particular view into a permanent scowl.
+- Short dark-brown hair with graying at the temples beneath his hat, matching the sheet's hairline, silhouette, and coloration across views.
 
 Use the same painterly, storybook animated-film language as Madrigal: expressive illustrated features, handcrafted texture, and soft edges where appropriate. Preserve the face's readability for restrained acting rather than adding photorealistic skin or materials.
 
@@ -61,17 +61,17 @@ When staging them together, maintain his moderately greater height without the h
 
 ## Continuity Requirements
 
-Preserve across shots and all views of the future character sheet:
+Preserve across shots and any future character references:
 
 - Apparent age, facial identity, heavy brows, complexion, and facial proportions.
 - Stocky build, natural adult proportions, and height relative to Madrigal.
-- Short dark brown hair, lightly graying temples, full dark beard, and mustache.
+- Short dark-brown hair, graying temples, and the full dark-and-gray beard and mustache shown in the canonical sheet.
 - Tall hat shape, white double-breasted coat, and rolled sleeves.
 - Dark apron pinstripes, bib construction, straps, and ties behind the waist.
 - Charcoal trousers and worn but maintained black leather kitchen shoes.
 - Painterly rendering consistent with the film and Madrigal's approved sheet.
 
-The existing kitchen frames establish the visible design baseline; the approved written choices resolve hair and lower-body details that those frames do not show reliably. A future sheet must depict one consistent design in a full-length front view, full-length side view, full-length back view, and face close-up. It becomes a canonical visual sheet only after review and acceptance.
+The canonical sheet establishes one approved design across full-length front, side, and back views and a face close-up. When an older kitchen frame differs in identity, beard coloration, or costume, follow the sheet for the character and retain the frame only for setting and prop continuity. Render the surrounding scene with the film's painterly lighting, texture, and atmosphere while preserving the accepted character design.
 
 For the knife incident, retain intact fingers and consistent hand, knife, onion, and board continuity. Do not introduce injury, exaggerated knife waving, or acknowledgment of Madrigal.
 
@@ -80,7 +80,9 @@ For the knife incident, retain intact fingers and consistent hand, knife, onion,
 - [Original Short Story](<../../01 Story/Original Short Story.md>) — actions, unseen intervention, reaction, and thematic significance.
 - [Vision](<../../00 Blueprint/Vision.md>) — unnoticed care and the human purpose of the film.
 - [Animation Style](<../../00 Blueprint/Animation Style.md>) — painterly rendering and controlled performance.
+- [Canonical Chef character sheet](the-chef-character-sheet.png) — approved identity, proportions, hair and beard coloration, costume, and character rendering.
 - [Madrigal definition](<../Madrigal/Madrigal.md>) and [canonical character sheet](<../Madrigal/madrigal-character-sheet.png>) — shared style and comparative character continuity.
 - [Scene 02 / Shot 01 notes](<../../06 Production/Scenes/02-breakfast-chaos/01/shot.md>), [starting-image prompt](<../../06 Production/Scenes/02-breakfast-chaos/01/starting-image-prompt.md>), and [kitchen frame](<../../06 Production/Scenes/02-breakfast-chaos/01/starting-image.png>) — occupation, build, costume, presence, and established kitchen appearance.
 - [Scene 02 / Shot 03 notes](<../../06 Production/Scenes/02-breakfast-chaos/03/shot.md>) and [kitchen frame](<../../06 Production/Scenes/02-breakfast-chaos/03/starting-image.png>) — facial and costume detail, distracted instruction, competence, and performance.
 - User design review on 2026-11-23 — preservation of the existing appearance, relative height, teaching temperament, hair, trousers, footwear, and final written design approval.
+- User approval confirmation on 2026-11-23 — the existing character sheet is approved; this supersedes its previously recorded candidate status and earlier instructions that would remove its gray facial hair.

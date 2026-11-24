@@ -16,7 +16,18 @@
 
 **Starting frame:** [starting-image.png](starting-image.png)
 
+## Character Continuity References
+
+- [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) and [Madrigal definition](<../../../../02 Characters/Madrigal/Madrigal.md>) — check the starting frame for identity, adult proportions, complete wardrobe, satchel placement, and wing anatomy.
+- [Canonical Chef sheet](<../../../../02 Characters/The Chef/the-chef-character-sheet.png>) and [Approved Chef definition](<../../../../02 Characters/The Chef/The Chef.md>) — check identity, dark-and-gray facial hair, adult build, and costume against the accepted design. Older kitchen frames supply setting and prop continuity.
+
+These are preflight review references, not additional video inputs. Animate from this shot's `starting-image.png` only after checking it against the applicable design references. Resolve any design conflict in the source frame before animation; do not ask the video model to redesign the character during motion. Keep the planned crop and do not reveal off-screen costume details just to display them.
+
 ## Video Prompt
+
+Madrigal remains a petite, slender young adult with natural adult proportions, the same freckled face, expressive brown eyes, and loose dark bun. Preserve her long dark blue-gray coat over the cream dress, blue-gray scarf, brown lace-up boots, locket, cross-body satchel, and two functional white-to-ivory feathered wings wherever visible. Keep garment lengths, satchel side, feather structure, and wing attachment stable; do not make her younger or childlike.
+
+Keep the head chef's canonical sheet design: middle-aged, stocky, the same face and heavy brows, full dark-and-gray beard and mustache, and short graying dark-brown hair. Preserve the sheet's tall white hat, white double-breasted coat with rolled sleeves, dark vertically pinstriped bib apron, and visible lower-body clothing. His frustration is specific to the slipped knife, not a permanent angry expression.
 
 Cinematic medium close-up continuing directly from the reference image inside the warm animated restaurant kitchen.
 

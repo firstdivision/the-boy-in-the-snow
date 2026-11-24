@@ -15,8 +15,12 @@
 ## Visual References
 
 - `@madrigal`: [Canonical Madrigal sheet](<../../../../02 Characters/Madrigal/madrigal-character-sheet.png>) — identity, proportions, clothing, and wing anatomy.
-- `@kitchen`: [Established kitchen and chef](../01/starting-image.png) — layout, palette, staff, and chef design; use the existing approved frame when available.
+- `@kitchen`: [Surviving kitchen continuity frame](../03/starting-image.png) — visible setting details, staff staging, palette, materials, and lighting; this closer view does not establish the entire room layout.
 - `@continuity`: [Existing continuity frame](../04/starting-image.png) — setting, eyeline, props, and screen direction; it is not necessarily the preceding shot's final pose.
+
+## Character Design Authority
+
+- [Madrigal definition](<../../../../02 Characters/Madrigal/Madrigal.md>) — use together with `@madrigal`; the sheet also establishes the dress, stockings, locket, boots, coat length, and satchel placement.
 
 Read [Vision](<../../../../00 Blueprint/Vision.md>) and [Animation Style](<../../../../00 Blueprint/Animation Style.md>). Inspect references before upload; use canonical character sheets for identity, and other frames for the setting and continuity. If an optional continuity image is unavailable or inconsistent, disclose that and revise the reference list and prompt for approval. Do not invent uploaded URLs.
 
@@ -26,9 +30,13 @@ Tight cinematic close-up of Madrigal inside the Copper Kettle kitchen, framed fr
 
 Use @kitchen for amber practical light, a subtle cool predawn rim, and a softly blurred background of established cooks, copper equipment, and cooking haze. Use @continuity only for the nearby preparation area's eyeline and light. The knife action remains off-camera. No worker looks toward her. Compose enough breathing room around her head and shoulders for a tiny intake of breath and the first slight lean forward, with both wings still folded.
 
-Preserve the canonical young-adult Madrigal: facial identity, freckles, expressive eyes, dark hair in a loose messy bun, naturally long slender adult proportions, dark winter coat of the same length, blue-gray scarf, boots, leather satchel, and two functional white feathered wings attached consistently to her back. Do not make her childlike or redesign her silhouette.
+Preserve the canonical young-adult Madrigal from @madrigal: facial identity, freckles, expressive brown eyes, dark hair in a loose messy bun, and naturally long, slender adult proportions. Keep her long dark blue-gray winter coat, blue-gray scarf, cream dress with its lace-edged hem, dark stockings, worn brown lace-up boots, small round locket, and brown leather cross-body satchel wherever visible in this framing. Preserve garment lengths, satchel side and strap, and the two functional white-to-ivory feathered wings with the same size, structure, and back attachment. Do not make her childlike or redesign her silhouette.
 
 Painterly storybook animated-film frame with handcrafted surface detail, expressive stylized faces, soft illustrated edges, and cinematic warm/cool contrast. Keep surfaces and anatomy illustrated rather than photorealistic CGI. Create a single clean cinematic frame, without captions, reference-sheet panels, labels, borders, or watermarks.
+
+## Reference Validation Notes
+
+Validated against the current character documents and sheets on 2026-11-23; updated following the user's confirmation of the Chef sheet's approval. The original master kitchen frame at `06 Production/Scenes/02-breakfast-chaos/01/starting-image.png` was absent during the prompt audit. A replacement candidate has since been generated there; see the Scene 02 / Shot 01 generation record for its status and review. `@kitchen` uses the surviving Shot 03 frame for setting and prop continuity. The approved Chef sheet governs character design wherever he appears. Use the kitchen frame for visible setting details; the wider geography remains governed by the shot brief and needs layout review before generating a replacement master frame. The audit reference change itself did not restore or select a starting frame; subsequent generations are documented separately.
 
 ## Generation Notes
 
